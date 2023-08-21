@@ -1,2 +1,2 @@
-# Ineuron-Assigments
-Python Practise Assignments
+# DataScience Pro-Assignments
+This repository contains all the assignments topic wise
